@@ -4,5 +4,4 @@ node_js:
   - "6"
 
 script:
-    - node src/index.js
-    - node_modules/.bin/jest
+    - yarn test
