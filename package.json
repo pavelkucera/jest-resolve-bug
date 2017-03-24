@@ -1,0 +1,12 @@
+{
+  "name": "jest-resolve-bug",
+  "private": true,
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:pavelkucera/jest-resolve-bug.git",
+  "author": "Pavel Kučera <pave.kucera@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^19.0.2"
+  }
+}
